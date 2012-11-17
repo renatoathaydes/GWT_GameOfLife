@@ -1,0 +1,18 @@
+gwt-unitCache/
+test-classes/
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+war/WEB-INF/lib/
+war/gwt_gameoflife
+.gwt/
+.settings/
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+
+# boilerplate generated classes #
+.apt_generated/

@@ -1,0 +1,13 @@
+.cell {
+	width: 4px;
+	height: 4px;
+	display: inline-block;
+}
+
+.no-left-space {
+	margin-left: 0px;
+}
+
+.no-top-space {
+	margin-top: -14px;
+}
