@@ -2,6 +2,9 @@ package com.athaydes.game_of_life.client;
 
 import java.util.Arrays;
 
+import com.athaydes.game_of_life.client.core.Board;
+import com.athaydes.game_of_life.client.core.CellPattern;
+import com.athaydes.game_of_life.client.util.Point;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;

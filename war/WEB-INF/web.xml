@@ -8,7 +8,7 @@
   <!-- Servlets -->
   <servlet>
     <servlet-name>greetServlet</servlet-name>
-    <servlet-class>com.athaydes.game_of_life.server.GreetingServiceImpl</servlet-class>
+    <servlet-class>com.athaydes.game_of_life.server.service.GreetingServiceImpl</servlet-class>
   </servlet>
   
   <servlet-mapping>
